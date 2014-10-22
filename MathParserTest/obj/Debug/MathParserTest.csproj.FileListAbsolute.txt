@@ -1,0 +1,6 @@
+C:\Users\Maninder\Projects\MathParserTest\MathParserTest\bin\Debug\MathParserTest.exe.config
+C:\Users\Maninder\Projects\MathParserTest\MathParserTest\bin\Debug\MathParserTest.exe
+C:\Users\Maninder\Projects\MathParserTest\MathParserTest\bin\Debug\MathParserTest.pdb
+C:\Users\Maninder\Projects\MathParserTest\MathParserTest\obj\Debug\MathParserTest.csprojResolveAssemblyReference.cache
+C:\Users\Maninder\Projects\MathParserTest\MathParserTest\obj\Debug\MathParserTest.exe
+C:\Users\Maninder\Projects\MathParserTest\MathParserTest\obj\Debug\MathParserTest.pdb
